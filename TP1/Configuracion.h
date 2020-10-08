@@ -4,6 +4,7 @@
 void integrantesDelGrupo();
 void realizarCopia();
 void restaurarCopia();
+
 int generarPin( int );
 int cantidad_usuarios_bkp();
 int cantidad_entrenos_bkp();
