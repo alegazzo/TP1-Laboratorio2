@@ -1,0 +1,337 @@
+# depslib dependency file v1.0
+1600395948 source:e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+
+1600452230 e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\usuario.h
+
+1599847452 e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\submenus.h
+
+1600452230 source:e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\submenus.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+
+1600464168 source:e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\funcionesusuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"usuario.h"
+	"submenus.h"
+	"rlutil.h"
+
+1599324878 source:e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\validaciondefecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"usuario.h"
+
+1600472855 source:c:\users\sebas\desktop\tp1\funcionesusuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"usuario.h"
+	"submenus.h"
+	"rlutil.h"
+
+1600472023 c:\users\sebas\desktop\tp1\usuario.h
+
+1600467327 c:\users\sebas\desktop\tp1\submenus.h
+
+1600468155 source:c:\users\sebas\desktop\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"Configuracion.h"
+
+1600469002 source:c:\users\sebas\desktop\tp1\submenus.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+	"Configuracion.h"
+
+1599339278 source:c:\users\sebas\desktop\tp1\validaciondefecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"usuario.h"
+
+1600450172 source:c:\users\sebas\desktop\tp1\funcionesentrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+
+1600428226 c:\users\sebas\desktop\tp1\entrenamiento.h
+
+1600464573 source:e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\funcionesentrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+
+1600442627 e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\entrenamiento.h
+
+1600441333 source:e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\funcionesdefecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"usuario.h"
+	"entrenamiento.h"
+
+1571584339 e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600301956 e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\ui.h
+
+1600302405 source:e:\documentos\00 utn\2º\laboratorio ii\tp lara\tp1\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600426932 source:c:\users\sebas\desktop\tp1\funcionesdefecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"usuario.h"
+	"entrenamiento.h"
+
+1571569938 c:\users\sebas\desktop\tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600472971 source:c:\users\sebas\desktop\tp1\configuracion.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+	"Configuracion.h"
+
+1600472892 c:\users\sebas\desktop\tp1\configuracion.h
+
+1600458570 source:c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\configuracion.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+	"Configuracion.h"
+
+1571555538 c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600896112 c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\usuario.h
+
+1600452926 c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\submenus.h
+
+1600895575 c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\entrenamiento.h
+
+1600458492 c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\configuracion.h
+
+1600412532 source:c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\funcionesdefecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"usuario.h"
+	"entrenamiento.h"
+
+1600453754 source:c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"Configuracion.h"
+
+1600898808 source:c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\funcionesentrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+
+1600898140 source:c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\funcionesusuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"usuario.h"
+	"submenus.h"
+	"rlutil.h"
+
+1600896758 source:c:\users\alegazzo\desktop\utn\laboratorio 2\tp del drive\tp1\submenus.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+	"Configuracion.h"
+
+1600444170 source:c:\users\alegazzo\desktop\tp del drive\tp1\configuracion.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+	"Configuracion.h"
+
+1571541138 c:\users\alegazzo\desktop\tp del drive\tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600881712 c:\users\alegazzo\desktop\tp del drive\tp1\usuario.h
+
+1600976480 c:\users\alegazzo\desktop\tp del drive\tp1\submenus.h
+
+1600881174 c:\users\alegazzo\desktop\tp del drive\tp1\entrenamiento.h
+
+1600444092 c:\users\alegazzo\desktop\tp del drive\tp1\configuracion.h
+
+1600398132 source:c:\users\alegazzo\desktop\tp del drive\tp1\funcionesdefecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"usuario.h"
+	"entrenamiento.h"
+
+1600884408 source:c:\users\alegazzo\desktop\tp del drive\tp1\funcionesentrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+
+1600883740 source:c:\users\alegazzo\desktop\tp del drive\tp1\funcionesusuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"usuario.h"
+	"submenus.h"
+	"rlutil.h"
+
+1600976876 source:c:\users\alegazzo\desktop\tp del drive\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1600977364 c:\users\alegazzo\desktop\tp del drive\tp1\reportes.h
+
+1600976488 source:c:\users\alegazzo\desktop\tp del drive\tp1\submenus.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1600998406 source:c:\users\alegazzo\desktop\tp del drive\tp1\reportes.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"usuario.h"
+	"submenus.h"
+	"entrenamiento.h"
+	"Configuracion.h"
+	"Reportes.h"
+
